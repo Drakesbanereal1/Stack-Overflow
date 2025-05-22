@@ -1,0 +1,39 @@
+Educational Buffer Overflow Examples
+This repository contains C code and scripts related to buffer overflow and authentication vulnerabilities.
+These files are provided strictly for educational and research purposes only.
+
+⚠️ Disclaimer & Legal Notice
+Use at Your Own Risk:
+By using any files in this repository, you are fully responsible for any actions you take.
+The authors and contributors of this repository accept no liability for any misuse or damage caused.
+
+No Malicious Use:
+You may not use any code, scripts, or techniques from this repository for malicious purposes, including but not limited to:
+Gaining unauthorized access to systems
+Causing harm to networks or devices
+Violating the law in any jurisdiction
+
+Educational Purposes Only:
+All code is intended for academic study, ethical security research, or penetration testing with explicit written permission from the system owner.
+
+Affidavit Requirement:
+If you use or adapt any code from this repository to test real systems, you must:
+Possess an affidavit or written authorization from the system owner (or have lawful authority)
+Retain proof of permission in case of any audit or investigation
+
+Acknowledgment of Responsibility
+By using, cloning, or forking this repository, you agree to:
+Only use this code in lawful, ethical ways for research or educational purposes.
+Assume all responsibility and legal liability for your actions.
+Never use this code for unauthorized access or malicious intent.
+
+Example Affidavit Language
+"I, [your name], have explicit written authorization from [system owner/organization] to perform security testing,
+and will use code derived from this repository only within the scope of that permission."
+
+License
+This project is licensed under the MIT License (or whichever you select), but this does not override the requirements above regarding legal and ethical use.
+
+Contact
+For questions, contact the repository maintainer before using this code in any real-world scenario.
+
